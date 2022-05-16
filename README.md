@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nicolasbiondini.vercel.app/](https://portfolio-nicolasbiondini.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nicolasbiondini.com/](https://nicolasbiondini.com/)
 
 - 💬 Ask me about **react, next js and javascript**
 
