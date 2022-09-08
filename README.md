@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/biondininicolas" target="blank"><img src="https://img.shields.io/twitter/follow/biondininicolas?logo=twitter&style=for-the-badge" alt="biondininicolas" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web 3**
 
 - 👨‍💻 All of my projects are available at [nicolasbiondini.com](https://nicolasbiondini.com/)
 
